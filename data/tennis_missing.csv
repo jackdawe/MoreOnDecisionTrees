@@ -1,0 +1,15 @@
+Day;Outlook;Temperature;Humidity;Wind;PlayTennis
+D1;Sunny;Hot;High;Weak;No
+D2;?;Hot;High;Strong;No
+D3;?;?;High;?;Yes
+D4;Rain;Mild;High;Weak;Yes
+D5;Rain;Cool;?;Weak;Yes
+D6;Rain;Cool;Normal;Strong;No
+D7;Overcast;Cool;Normal;Strong;Yes
+D8;?;Mild;High;?;No
+D9;?;Cool;Normal;Weak;Yes
+D10;?;?;Normal;?;Yes
+D11;?;Mild;Normal;?;Yes
+D12;Overcast;Mild;?;Strong;Yes
+D13;Overcast;Hot;?;Weak;Yes
+D14;Rain;Mild;High;Strong;No
